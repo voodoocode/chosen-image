@@ -2,7 +2,7 @@
 
 Extends the functionaility of the Chosen plugin by Harvest to display inline images in dropdown menus
 
-[View Example](http://djgrant.github.com/chosen-image/)
+[View Example](http://djgrant.github.com/chosen-image/example.html)
 
 ### Usage
 
