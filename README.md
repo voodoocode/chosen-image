@@ -1,6 +1,6 @@
 # Chosen Image
 
-Extends the functionaility of chosen plugin by Harvest to allow inline images in dropdown menus
+Extends the functionaility of the Chosen plugin by Harvest to display inline images in dropdown menus
 
 ### Usage
 
@@ -14,5 +14,5 @@ $(".my-select").chosenImage({
   
 ### Dependencies
 
-jQuery 1.4+
-Chosen
+- jQuery 1.4+
+- Chosen
