@@ -25,8 +25,8 @@ $(".my-select").chosenImage({
 
 All properties of `chosen()` are available through `chosenImage()`
 
-By default images are resized to 12px tall in `chosenImage.css`
-  
+By default images are resized to 19px tall in `chosenImage.css`
+
 ### Dependencies
 
 - jQuery 1.4+
