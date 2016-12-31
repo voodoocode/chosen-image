@@ -1,4 +1,6 @@
-# Chosen Image
+# Chosen Image [![frozen](http://badges.github.io/stability-badges/dist/frozen.svg)](http://github.com/badges/stability-badges)
+
+> New contributions will not be accepted but for the sake of people still using this script I am leaving it around for the time being. There are no doubt much better ways to do the same thing but, that said, if you would like to continue development feel free to fork or request ownership of the repo. Or choose a library that does this already.
 
 Extends the functionaility of the Chosen plugin by Harvest to display inline images in dropdown menus
 
