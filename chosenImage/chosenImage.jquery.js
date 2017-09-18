@@ -28,8 +28,10 @@
 
             // 4. Change image on chosen selected element when form changes.
             $select.change(function() {
-                var imgSrc = $select.find('option:selected').attr('data-img-src') || '';
-                $chosen.find('.chosen-single span').css(cssObj(imgSrc));
+                jQuery.each($select.find('option:selected'), function (i, elem) {
+                    var imgSrc = jQuery(elem).attr('data-img-src') || '';
+                    $chosen.find('.search-choice span').eq(i).css(cssObj(imgSrc));
+                });
             });
             $select.trigger('change');
 
